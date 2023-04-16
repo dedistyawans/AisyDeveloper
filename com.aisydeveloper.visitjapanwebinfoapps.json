@@ -26,7 +26,7 @@
   },
 
   "app_settings" : {
-    "enable_activity_maintenance_with_chat_bot": false,
+    "enable_activity_maintenance_with_chat_bot": true,
     "enable_intro_guide": false,
     "list_view_mode" : "classic",
     "item_interval_native_ad_list": 4,
