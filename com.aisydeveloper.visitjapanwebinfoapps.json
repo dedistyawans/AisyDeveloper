@@ -5,7 +5,7 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
       "ad_network_order": "percent_order"
     },
 
