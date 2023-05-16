@@ -11,15 +11,16 @@
 
     "ad_network": [
       {
-        "name": "xstartapp",
+        "name": "max",
         "value": 1,
+        "splash_ad_mode" : "interstitial",
 
-        "appId_appKey_publisherId_gameId": "204306476",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "18c35b1ff335a16e",
+        "mrec": "22ea5174bfb89e97",
+        "inter": "64e8dd7aed7a8986",
+        "native_ad": "407aa7b733a44aa2",
+        "open_ad": "a75b940be58dae57",
         "splash_ad": true
       }
     ]
