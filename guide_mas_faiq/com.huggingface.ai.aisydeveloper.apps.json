@@ -3,7 +3,7 @@
     "settings": {
       "app_id_onesignal": "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
       "interval_interstitial": 2,
-      "switch_ads_type": "banner_native_linear",
+      "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
       "make_app_crash_when_app_not_live_at_play_store": false,
       "ad_network_order": "percent_order"
