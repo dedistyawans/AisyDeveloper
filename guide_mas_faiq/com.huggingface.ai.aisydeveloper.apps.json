@@ -5,13 +5,13 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
       {
-        "name": "startapp",
+        "name": "xstartapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
@@ -26,7 +26,7 @@
   },
 
   "app_settings" : {
-    "enable_activity_maintenance_with_chat_bot": true,
+    "enable_activity_maintenance_with_chat_bot": false,
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
     "enable_native_list_mas_faiq": true,
@@ -51,44 +51,105 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Introduction",
+      "image": "https://thumbs.dreamstime.com/b/introduction-77226561.jpg"
     },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+     {
+      "name_category": "Video",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7od28WrBb3TQI-TntqwYB_97l9KDVz2PKA&usqp=CAU"
     },
-    {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+     {
+      "name_category": "Build Machine Learning",
+      "image": "https://ftmm.unair.ac.id/wp-content/uploads/2023/05/portada.jpg"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Introduction",
+      "title": "What is hugging face AI?",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/0*2B6RjN3I2okmSCzV",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/what-is-hugging-face-ai.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Introduction",
+      "title": "How to use hugging face?",
+      "image": "https://res.cloudinary.com/dyd911kmh/image/upload/v1660218124/components_of_transformers_89296e00c3.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/how-to-use-hugging-face.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Introduction",
+      "title": "How to install hugging face",
+      "image": "https://img.freepik.com/premium-vector/install-programm-icon-flat-style-software-upgrade-vector-illustration-isolated-background-laptop-upload-process-sign-business-concept_157943-1375.jpg?w=2000",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/how-to-install-hugging-face.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Introduction",
+      "title": "Prequisites Hugging Face",
+      "image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2021/06/28/architecture-1.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/prequisites-hugging-face.html",
+      "video_id": "null"
+    },
+    
+     {
+      "name_category": "Video",
+      "title": "The pipeline function",
+      "image": "https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/pipeline-function-hugging-face-ai.html",
+      "video_id": "tiZFewofSLM"
+    },
+    {
+      "name_category": "Video",
+      "title": "The carbon footprint of Transformers",
+      "image": "https://pub.mdpi-res.com/buildings/buildings-13-01106/article_deploy/html/images/buildings-13-01106-g005.png?1682083030",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/the-carbon-footprint-of-transformers.html",
+      "video_id": "ftWlj4FBHTg"
+    },
+    {
+      "name_category": "Video",
+      "title": "What is Transfer Learning?",
+      "image": "https://res.cloudinary.com/dyd911kmh/image/upload/v1660218124/components_of_transformers_89296e00c3.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/what-is-transfer-learning.html",
+      "video_id": "BqqfQnyjmgg"
+    },
+     {
+      "name_category": "Video",
+      "title": "Debugging the Training Pipeline (TensorFlow)",
+      "image": "https://editor.analyticsvidhya.com/uploads/31013%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A3%80%E7%B4%A2%E6%9E%B6%E6%9E%84.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/debugging-training-pipeline-tensorflow.html",
+      "video_id": "N9kO52itd0Q"
+    },
+    
+     {
+      "name_category": "Build Machine Learning",
+      "title": "Getting Started: Building a Machine Learning",
+      "image": "https://www.krasamo.com/wp-content/uploads/0730Building-ML-Models-1024x682.jpg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/getting-started-building-machine.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Build Machine Learning",
+      "title": "Data Preparation: Preparing and Formatting",
+      "image": "https://i.ytimg.com/vi/7EA5Dk2LWXk/maxresdefault.jpg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/data-preparation-preparing-and.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "Build Machine Learning",
+      "title": "Choosing and Fine-Tuning Models",
+      "image": "https://10senses.com/wp-content/uploads/2022/08/ML-1.svg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/choosing-and-fine-tuning-models.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Build Machine Learning",
+      "title": "Integrating Hugging Face AI into Your App",
+      "image": "https://huggingface.co/blog/assets/cv_state/thumbnail.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/integrating-hugging-face-ai-into-your.html",
+      "video_id": "null"
     }
   ]
 }
