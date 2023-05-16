@@ -25,7 +25,7 @@
         "splash_ad": true
       },
       {
-        "name": "max",
+        "name": "x_max",
         "value": 1,
         "splash_ad_mode" : "interstitial",
 
