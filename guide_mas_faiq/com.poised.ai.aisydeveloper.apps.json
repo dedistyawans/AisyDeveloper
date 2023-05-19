@@ -10,6 +10,19 @@
     },
 
     "ad_network": [
+        {
+        "name": "fan_dedi",
+        "value": 999,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "1385328122251286",
+        "banner": "1385328122251286_1385328622251236",
+        "mrec": "1385328122251286_1385328662251232",
+        "inter": "1385328122251286_1385328718917893",
+        "native_ad": "1385328122251286_1385328785584553",
+        "open_ad": "-",
+        "splash_ad": true
+      },
       {
         "name": "admob_heru",
         "value": 999,
