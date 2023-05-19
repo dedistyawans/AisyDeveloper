@@ -10,6 +10,19 @@
     },
 
     "ad_network": [
+      {
+        "name": "admob_heru",
+        "value": 999999,
+        "min_time" : 120,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~4363581294",
+        "banner": "ca-app-pub-3261537079314282/2660451533",
+        "mrec": "ca-app-pub-3261537079314282/2660451533",
+        "inter": "ca-app-pub-3261537079314282/5194243396",
+        "native_ad": "ca-app-pub-3261537079314282/9034288195",
+        "open_ad": "ca-app-pub-3261537079314282/5777569467",
+        "splash_ad": true
+      },
        {
         "name": "xfan",
         "value": 1,
