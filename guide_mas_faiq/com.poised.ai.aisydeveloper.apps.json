@@ -11,6 +11,19 @@
 
     "ad_network": [
       {
+        "name": "admob_heru",
+        "value": 999,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~5003559759",
+        "banner": "ca-app-pub-3261537079314282/2496800001",
+        "mrec": "ca-app-pub-3261537079314282/2496800001",
+        "inter": "ca-app-pub-3261537079314282/4355804447",
+        "native_ad": "ca-app-pub-3261537079314282/4020762520",
+        "open_ad": "ca-app-pub-3261537079314282/7106090865",
+        "splash_ad": true
+      },
+      {
         "name": "xstartapp",
         "value": 1,
 
