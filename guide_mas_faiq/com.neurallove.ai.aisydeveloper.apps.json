@@ -3,7 +3,7 @@
     "settings": {
       "app_id_onesignal": "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
       "interval_interstitial": 2,
-      "switch_ads_type": "banner_native_linear",
+      "switch_ads_type": "only_banner",
       "interstitial_type": "lap",
       "make_app_crash_when_app_not_live_at_play_store": false,
       "ad_network_order": "percent_order"
@@ -11,26 +11,28 @@
 
     "ad_network": [
        {
-        "name": "admob",
+        "name": "admob_heru",
         "value": 9999,
+        "min_time" : 120,
 
-        "appId_appKey_publisherId_gameId": "204306476",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~4808258255",
+        "banner": "ca-app-pub-3261537079314282/2417048578",
+        "mrec": "ca-app-pub-3261537079314282/2417048578",
+        "inter": "ca-app-pub-3261537079314282/2637390480",
+        "native_ad": "ca-app-pub-3261537079314282/9011227143",
+        "open_ad": "ca-app-pub-3261537079314282/3093999132",
         "splash_ad": true
       },
        {
-        "name": "fan",
+        "name": "fan_dedi",
         "value": 99,
+        "min_time" : 120,
 
-        "appId_appKey_publisherId_gameId": "204306476",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
+        "appId_appKey_publisherId_gameId": "622916189886238",
+        "banner": "622916189886238_622916589886198",
+        "mrec": "622916189886238_622916656552858",
+        "inter": "622916189886238_622916766552847",
+        "native_ad": "622916189886238_622916863219504",
         "open_ad": "-",
         "splash_ad": true
       },
@@ -53,7 +55,7 @@
     "enable_activity_maintenance_with_chat_bot": false,
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
-    "enable_native_list_mas_faiq": true,
+    "enable_native_list_mas_faiq": false,
     "enable_banner_mas_faiq" : true,
     "item_interval_native_ad_list": 3,
     "enable_acak_content": false,
