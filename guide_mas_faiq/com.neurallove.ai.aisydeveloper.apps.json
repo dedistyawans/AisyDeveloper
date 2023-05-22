@@ -5,11 +5,35 @@
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
       "interstitial_type": "lap",
-      "make_app_crash_when_app_not_live_at_play_store": true,
+      "make_app_crash_when_app_not_live_at_play_store": false,
       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
+       {
+        "name": "admob",
+        "value": 9999,
+
+        "appId_appKey_publisherId_gameId": "204306476",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+       {
+        "name": "fan",
+        "value": 99,
+
+        "appId_appKey_publisherId_gameId": "204306476",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
       {
         "name": "startapp",
         "value": 1,
@@ -26,7 +50,7 @@
   },
 
   "app_settings" : {
-    "enable_activity_maintenance_with_chat_bot": true,
+    "enable_activity_maintenance_with_chat_bot": false,
     "enable_intro_guide": false,
     "list_view_mode" : "mas_faiq",
     "enable_native_list_mas_faiq": true,
@@ -51,44 +75,82 @@
 
   "Categories": [
     {
-      "name_category": "Tutorial",
+      "name_category": "Getting Started",
+      "image": "https://www.cdc.gov/healthyweight/images/losing-weight/getting_started-small.jpg?_=64558"
+    },
+    {
+      "name_category": "How To",
       "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
     },
     {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
-    },
-    {
-      "name_category": "Tutorial 2",
-      "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+      "name_category": "Video",
+      "image": "https://cdn-icons-png.flaticon.com/512/3629/3629554.png"
     }
   ],
 
   "Data": [
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Getting Started",
+      "title": "Get Your API Token",
+      "image": "https://help.loyverse.com/sites/default/files/user27/api-token-03.jpg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/get-your-api-token.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "name_category": "Getting Started",
+      "title": "Neural Love Credit",
+      "image": "https://static.wixstatic.com/media/e91d8b_9a7fcc97034e4f3ba63a86a47093801a~mv2.jpeg/v1/fill/w_614,h_614,al_c,lg_1,q_85,enc_auto/e91d8b_9a7fcc97034e4f3ba63a86a47093801a~mv2.jpeg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/neural-love-credit.html",
       "video_id": "null"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Getting Started",
+      "title": "Rate Limit Neural Love",
+      "image": "https://blog.moesif.com/images/posts/header/best-practices-for-api-rate-limits-and-quotas-with-moesif-to-avoid-angry-customers.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/rate-limit-neural-love.html",
+      "video_id": "null"
+    },
+     {
+      "name_category": "How To",
+      "title": "AI Art Generation: Making Generation Requests",
+      "image": "https://assets.website-files.com/61554cf069663530fc823d21/616d0a0a5ecc234479d5fb2f_overgrown.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/ai-art-generation-making-generation.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "How To",
+      "title": "Cost Estimation: Estimating the Cost of Generation",
+      "image": "https://www.forbes.com/advisor/wp-content/uploads/2022/08/Image_-_Cost_Accounting_.jpeg.jpg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/cost-estimation-estimating-cost-of.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How To",
+      "title": "Getting Results: Checking Order Status and Retrieving Generated Images",
+      "image": "https://static.toiimg.com/thumb/msid-63896704,width-400,resizemode-4/63896704.jpg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/getting-results-checking-order-status.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Video",
+      "title": "How Make AI Video",
+      "image": "https://i.ytimg.com/vi/gxVnCaupxuc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF0oQzAP&rs=AOn4CLCXyvfXnTwZCCHP0CrFboUkn5JEvA",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/how-to-make-ai-video-with-neural-love-ai.html",
+      "video_id": "gxVnCaupxuc"
+    },
+     {
+      "name_category": "Video",
+      "title": "Get Free Access to AI Art & MORE with Neural.love!",
+      "image": "https://i.ytimg.com/vi/Y-V27uoXy5w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXaWORczjBbz8KPZsr8J87WMv0IA",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/what-is-neural-love-and-how-to-use-it.html",
+      "video_id": "Y-V27uoXy5w"
+    },
+      {
+      "name_category": "Video",
+      "title": "How to make great AI art on neural love easily!",
+      "image": "https://i.ytimg.com/vi/WxzZwf_Slro/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg7IFwoZTAP&rs=AOn4CLBFRKNph4-kIzfu085uOYZO1KMs9Q",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/video-enhance-with-neural-love-ai.html",
+      "video_id": "WxzZwf_Slro"
     }
   ]
 }
