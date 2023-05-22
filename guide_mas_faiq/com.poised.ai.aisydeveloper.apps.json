@@ -12,7 +12,7 @@
     "ad_network": [
         {
         "name": "fan_dedi",
-        "value": 999,
+        "value": 1000,
         "min_time": 120,
 
         "appId_appKey_publisherId_gameId": "1385328122251286",
@@ -25,7 +25,7 @@
       },
       {
         "name": "admob_heru",
-        "value": 999999,
+        "value": 1000,
         "min_time": 120,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~5003559759",
@@ -37,7 +37,7 @@
         "splash_ad": true
       },
       {
-        "name": "xstartapp",
+        "name": "startapp",
         "value": 1,
 
         "appId_appKey_publisherId_gameId": "204306476",
