@@ -13,24 +13,26 @@
        {
         "name": "admob_heru",
         "value": 999,
+        "min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "204306476",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
-        "open_ad": "-",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~9449145185",
+        "banner": "ca-app-pub-3261537079314282/2244608434",
+        "mrec": "ca-app-pub-3261537079314282/2244608434",
+        "inter": "ca-app-pub-3261537079314282/7447111456",
+        "native_ad": "ca-app-pub-3261537079314282/2811584641",
+        "open_ad": "ca-app-pub-3261537079314282/2418146055",
         "splash_ad": true
       },
        {
         "name": "fan_dedi",
         "value": 999,
+        "min_time": 120,
 
-        "appId_appKey_publisherId_gameId": "204306476",
-        "banner": "-",
-        "mrec": "-",
-        "inter": "-",
-        "native_ad": "-",
+        "appId_appKey_publisherId_gameId": "269023345578195",
+        "banner": "269023345578195_269025215578008",
+        "mrec": "269023345578195_269025465577983",
+        "inter": "269023345578195_269025335577996",
+        "native_ad": "269023345578195_269025628911300",
         "open_ad": "-",
         "splash_ad": true
       },
@@ -77,6 +79,14 @@
     {
       "name_category": "Video",
       "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__480.jpg"
+    },
+     {
+      "name_category": "Introduction",
+      "image": "https://techofmind.com/wp-content/uploads/2023/02/Introduction-to-Artificial-Intelligence-or-AI-1200x720-1.jpg"
+    },
+     {
+      "name_category": "How To",
+      "image": "https://compote.slate.com/images/bf68509f-1807-42a3-9f14-45cc1bd0b579.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1200"
     }
   ],
 
@@ -92,15 +102,50 @@
       "name_category": "Video",
       "title": "How I Use AI + No Code to Validate any SaaS Idea",
       "image": "https://media.licdn.com/dms/image/C560BAQHLh25L-HiTxA/company-logo_200_200/0/1669084589426?e=2147483647&v=beta&t=TSCmSIaImRh4bJK1frLYomjgCvdHPFhwfh5GH-BlF_k",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/unleashing-power-of-ai-introducing.html",
       "video_id": "aSMxdBVTcLg"
     },
     {
-      "name_category": "Tutorial",
-      "title": "Video Youtube",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html",
-      "video_id": "mOW0jfmg8Fg"
+      "name_category": "Video",
+      "title": "The BEST AI Sites in 2023 (Free + Easy to Use!)",
+      "image": "https://images.all-free-download.com/images/graphiclarge/social_media_website_template_digital_elements_sketch_6852635.jpg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/mindgrasp-ai-unlocking-potential-of.html",
+      "video_id": "K_Jqad4zbWA"
+    },
+     {
+      "name_category": "Introduction",
+      "title": "Introduction to Mindgrasp AI",
+      "image": "https://assets.nicepagecdn.com/aeeb97d7/3770713/images/hero-person.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/introduction-to-mindgrasp-ai.html",
+      "video_id": "null"
+    },
+    {
+      "name_category": "Introduction",
+      "title": "The Power of Instant Note Creation",
+      "image": "https://i.ytimg.com/vi/tw4b7ZLf2YU/maxresdefault.jpg",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/the-power-of-instant-note-creation.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "Introduction",
+      "title": "Effortless Integration: Simplifying Learning with Mindgrasp AI",
+      "image": "https://assets.nicepagecdn.com/aeeb97d7/3770713/images/Clarify-2.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/effortless-integration-simplifying.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How To",
+      "title": "How To Use MindGrasp AI: Simplifying Note-Taking and Summarization",
+      "image": "https://www.wikihow.com/extensions/wikihow/homepage/images/books2.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/how-to-use-mindgrasp-ai-simplifying.html",
+      "video_id": "null"
+    },
+      {
+      "name_category": "How To",
+      "title": "The Benefits of MindGrasp AI: Harnessing the Power of Artificial Intelligence",
+      "image": "https://1.bp.blogspot.com/-FwZXPA0HvkY/YLyumeFBScI/AAAAAAAAW6U/JqIj1af87cY4qY0h9BJp4guEDs8c2b60ACLcBGAsYHQ/s316/Pengertian%2BBenefit%252C%2BBentuk%252C%2BJenis%252C%2BFaktornya.png",
+      "link": "https://aisydeveloperup.blogspot.com/2023/05/the-benefits-of-mindgrasp-ai-harnessing.html",
+      "video_id": "null"
     }
   ]
 }
