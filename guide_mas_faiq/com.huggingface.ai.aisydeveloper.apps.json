@@ -12,7 +12,7 @@
     "ad_network": [
       {
         "name": "admob_heru",
-        "value": 1000,
+        "value": 10000,
         "min_time" : 120,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~4363581294",
@@ -25,7 +25,7 @@
       },
        {
         "name": "fan_dedi",
-        "value": 1000,
+        "value": 100,
         "load_time_out" : 5,
         "min_time" : 60,
 
@@ -39,7 +39,7 @@
       },
       {
         "name": "max",
-        "value": 99,
+        "value": 1,
         "splash_ad_mode" : "interstitial",
 
         "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
