@@ -12,7 +12,7 @@
     "ad_network": [
       {
         "name": "admob_heru",
-        "value": 10000,
+        "value": 100,
         "min_time" : 120,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~4363581294",
@@ -24,8 +24,23 @@
         "splash_ad": true
       },
        {
-        "name": "fan_dedi",
+        "name": "max_dedi",
         "value": 100,
+         "min_time":120,
+         "open_ad_mode" : "interstitial",
+         "splash_ad_mode": "interstitial",
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "18c35b1ff335a16e",
+        "mrec": "-",
+        "inter": "64e8dd7aed7a8986",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      },
+       {
+        "name": "x_fan_dedi",
+        "value": 0,
         "load_time_out" : 5,
         "min_time" : 60,
 
@@ -36,20 +51,8 @@
         "native_ad": "1303158227244511_1303158277244506",
         "open_ad": "1303158227244511_1303158287244505",
         "splash_ad": true
-      },
-      {
-        "name": "max",
-        "value": 1,
-        "splash_ad_mode" : "interstitial",
-
-        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
-        "banner": "18c35b1ff335a16e",
-        "mrec": "22ea5174bfb89e97",
-        "inter": "64e8dd7aed7a8986",
-        "native_ad": "407aa7b733a44aa2",
-        "open_ad": "a75b940be58dae57",
-        "splash_ad": true
       }
+      
     ]
   },
 
