@@ -12,7 +12,7 @@
     "ad_network": [
        {
         "name": "admob_heru",
-        "value": 100,
+        "value": 300,
         "min_time" : 120,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~4808258255",
